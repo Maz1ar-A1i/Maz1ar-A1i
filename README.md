@@ -1,6 +1,3 @@
-![Profile Picture](https://[your-image-link.com](https://avatars.githubusercontent.com/u/116103912?s=400&u=3b3798b1986c76dccb83ee20aba06552b44b1dcc&v=4))
-
-
 ## About Me
 
 <!--
@@ -19,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 ## Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](www.linkedin.com/in/mazhar-ali-160826282)
-[![Email](https://img.shields.io/badge/Email-Profile-blue)](mazhar.ali7395@gmai.com)
+www.linkedin.com/in/mazhar-ali-160826282
+mazhar.ali7395@gmai.com
 
 
 
