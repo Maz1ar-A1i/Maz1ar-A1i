@@ -20,4 +20,8 @@ Here are some ideas to get you started:
 - **Email:** [mazhar.ali7395@gmai.com](mazhar.ali7395@gmai.com)
 
 
+
+
+
+    
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mazhar&show_icons=true&theme=dark)
