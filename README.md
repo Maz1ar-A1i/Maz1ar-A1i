@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## Connect with Me
-- **LinkedIn:** [Mazhar Ali](www.linkedin.com/in/mazhar-ali-160826282/)
+- **LinkedIn:** [Mazhar Ali](https://www.linkedin.com/in/mazhar-ali-160826282/)
 - **Email:** [mazhar.ali7395@gmai.com](mazhar.ali7395@gmai.com)
 
 
