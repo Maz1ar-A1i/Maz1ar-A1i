@@ -28,4 +28,3 @@ Relevant Coursework: Cloud Computing, Theory Of Automata (TOA), Artificial Intel
 <br>
 <br>
     
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mazhar&show_icons=true&theme=dark)
