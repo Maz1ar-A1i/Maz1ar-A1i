@@ -1,5 +1,5 @@
 ## About Me
-I'm Mazhar Ali, a dedicated 3rd-year Computer Science student with a strong passion for Data Science, Artificial Intelligence, and Computer Vision. I love uncovering insights from data and developing intelligent systems that make AI more efficient and smarter.
+I'm Mazhar Ali, a dedicated Computer Science student with a strong passion for Data Science, Artificial Intelligence, and Computer Vision. I love uncovering insights from data and developing intelligent systems that make AI more efficient and smarter.
 <br><br>
 With expertise in SQL, I efficiently manipulate and analyze data using joins, window functions, and group by operations. Additionally, I am skilled in Microsoft Excel and Power BI, enabling me to create insightful visualizations that enhance decision-making.
 <br><br>
